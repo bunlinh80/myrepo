@@ -1,4 +1,4 @@
-# myrepo
+# myrepo: Test Drive Github, Rstudio and Ubuntu Terminal
 
 This is a line from Terminal in Ubuntu (16.04.3).
 =======
