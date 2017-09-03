@@ -15,3 +15,9 @@ RStudio
 =======
 
 More Editing from RStudio :-)
+
+Ubuntu Terminal
+=======
+
+Some keyboard shortcuts:
+* `gc`
