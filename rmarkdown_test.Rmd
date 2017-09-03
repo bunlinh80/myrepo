@@ -2,9 +2,8 @@
 title: "R Markdown Test"
 author: "Linh Bun"
 date: "September 3, 2017"
-output: 
-  html_document:
-    keep_md: true
+output:
+  github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -12,6 +11,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
+
+### Alternative Output
+RStudio can also generate `Markdown` document (as intermediate steps).
+`R Markdown` `==>` `Markdown` `==>` `HTML` document.
+In this case, we could add the following `R` code:
+
+```{r, eval=FALSE}
+output: 
+  html_document:
+    keep_md: true
+```
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
