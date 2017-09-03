@@ -1,4 +1,6 @@
 # myrepo
 Test Github!
 
-This is a line from Rstudio (Ubuntu 16.04.3).
+This is a line from RStudio (Ubuntu 16.04.3).
+
+Another line from RStudio.
