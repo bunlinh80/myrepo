@@ -20,4 +20,6 @@ Ubuntu Terminal
 =======
 
 Some keyboard shortcuts:
-* `gc`
+* `git add`: `ga`
+* `git commit -m`: `gcmsg`
+* `git push`: `gp`
